@@ -1,0 +1,1 @@
+# Ecualizador-de-6-bandas-con-filtros-activos
